@@ -10,7 +10,7 @@ It is shared here **only for reference purposes**.
 ---
 
 ## 📸 Screenshot
-![Portfolio Screenshot](hero.png)
+![Portfolio Screenshot](screenshot/hero.png)
 
 ---
 
